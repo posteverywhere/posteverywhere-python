@@ -11,13 +11,40 @@ license = "MIT"
 license-files = ["LICENSE"]
 requires-python = ">=3.9"
 authors = [{ name = "PostEverywhere", email = "support@posteverywhere.ai" }]
-keywords = ["posteverywhere", "social media", "scheduler", "api", "sdk", "instagram", "tiktok", "linkedin", "x", "twitter"]
+keywords = [
+  "posteverywhere",
+  "social-media-api",
+  "social-media",
+  "scheduling",
+  "mcp",
+  "ai-agents",
+  "bluesky",
+  "threads",
+  "social media",
+  "scheduler",
+  "api",
+  "sdk",
+  "instagram",
+  "tiktok",
+  "linkedin",
+  "x",
+  "twitter",
+]
 classifiers = [
   "Development Status :: 4 - Beta",
   "Intended Audience :: Developers",
+  "Operating System :: OS Independent",
   "Programming Language :: Python :: 3",
   "Programming Language :: Python :: 3 :: Only",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Topic :: Communications",
+  "Topic :: Internet",
   "Topic :: Internet :: WWW/HTTP",
+  "Topic :: Office/Business",
   "Topic :: Software Development :: Libraries :: Python Modules",
   "Typing :: Typed",
 ]
