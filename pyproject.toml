@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 [project]
 name = "posteverywhere"
 version = "0.1.0"
-description = "Official Python client for the PostEverywhere API. Schedule and publish posts to Instagram, TikTok, YouTube, LinkedIn, Facebook, X, Threads, Pinterest, Bluesky and more."
+description = "Official Python client for the PostEverywhere API. Schedule and publish posts to Instagram, TikTok, YouTube, LinkedIn, Facebook, X, Threads, Pinterest, Bluesky, Telegram, Discord and WordPress."
 readme = "README.md"
 license = "MIT"
 license-files = ["LICENSE"]
